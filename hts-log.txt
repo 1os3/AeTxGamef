@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Jul 2024 22:38:21 at https://aetxgamef.my.canvasite.cn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aetxgamef.my.canvasite.cn/ -O1 "F:\AeTxGamef\AeTxGamef1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:38:29	Error: 	"Not Found" (404) at link https://aetxgamef.my.canvasite.cn/'data:image/png;base64,' (from https://aetxgamef.my.canvasite.cn/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 13 links scanned, 11 files written (1118174 bytes overall) [1074210 bytes received at 134276 bytes/sec], 73382 bytes transferred using HTTP compression in 5 files, ratio 20%, 8.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
